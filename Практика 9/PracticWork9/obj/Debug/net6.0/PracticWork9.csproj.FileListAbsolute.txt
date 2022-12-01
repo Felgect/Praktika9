@@ -1,0 +1,30 @@
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.deps.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.runtimeconfig.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.csproj.AssemblyReference.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.AssemblyInfoInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.AssemblyInfo.cs
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.csproj.CoreCompileInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\refint\PracticWork9.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.genruntimeconfig.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork9\PracticWork9\obj\Debug\net6.0\ref\PracticWork9.dll
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.exe
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.deps.json
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.runtimeconfig.json
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.dll
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\bin\Debug\net6.0\PracticWork9.pdb
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.csproj.AssemblyReference.cache
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.AssemblyInfoInputs.cache
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.AssemblyInfo.cs
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.csproj.CoreCompileInputs.cache
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.dll
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\refint\PracticWork9.dll
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.pdb
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\PracticWork9.genruntimeconfig.cache
+C:\Users\kalugin.da0826\Desktop\PracticWork9\PracticWork9\obj\Debug\net6.0\ref\PracticWork9.dll
